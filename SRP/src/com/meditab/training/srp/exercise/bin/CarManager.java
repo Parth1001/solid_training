@@ -1,4 +1,4 @@
-package com.meditab.training.srp.exercise;
+package com.meditab.training.srp.exercise.bin;
 
 import java.util.Arrays;
 import java.util.List;
